@@ -21,5 +21,5 @@ For technical documentation, see:
 - 📄 [Whitepaper](https://github.com/XEQMLabs/whitepaper)
 - 🌐 [Website](https://xeqmlabs.com)
 - 💬 [Telegram](https://t.me/XEQCommunity)
-- 🐦 [Twitter / X](https://x.com/XEQMLabs)
+- 🐦 [Twitter / X](https://x.com/ExiomXEQM)
 - ✉️ [Contact](mailto:wayland@xeqmlabs.com)
