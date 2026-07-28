@@ -14,7 +14,7 @@ For technical documentation, see:
 
 | Date | Title |
 |---|---|
-| 2026-07-26 | [XEQM Network Resilience: Where We Are and Where We're Going](./2026-07-26-network-resilience-hf22.md) |
+| 2026-07-26 | [XEQM Network Resilience: Where We Are and Where We're Going](./XEQM_Network_Resilience.md) |
 
 ---
 
